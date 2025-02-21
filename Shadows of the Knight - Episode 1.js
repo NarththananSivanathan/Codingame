@@ -95,7 +95,6 @@
      
  
      console.error(currentX.toString()+" "+currentY.toString())
-     console.log(currentX.toString()+" "+currentY.toString());
  }
  function isMustVerticalMovedUp(bombDir){
      return bombDir.includes("U")   
